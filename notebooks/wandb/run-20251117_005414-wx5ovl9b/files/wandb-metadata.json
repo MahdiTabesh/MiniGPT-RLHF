@@ -1,0 +1,38 @@
+{
+  "os": "Linux-5.10.0-33-cloud-amd64-x86_64-with-glibc2.31",
+  "python": "CPython 3.10.19",
+  "startedAt": "2025-11-17T00:54:14.387537Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "git@github.com:MahdiTabesh/MiniGPT-RLHF.git",
+    "commit": "bab921edffbef6e79fc9e92a3173d2324b0d0901"
+  },
+  "email": "mah3i.tabesh500@gmail.com",
+  "root": "/home/mt3846/projects/MiniGPT-RLHF/notebooks",
+  "host": "instance-20251110-171720",
+  "executable": "/opt/conda/envs/gpt2-rlhf/bin/python",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "105426538496",
+      "used": "71259459584"
+    }
+  },
+  "memory": {
+    "total": "31557120000"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing",
+      "uuid": "GPU-4c9d07a6-a923-44b3-7a5b-997c1c1a219b"
+    }
+  ],
+  "cudaVersion": "12.4",
+  "writerId": "tufscimiz9u27fgxrlilzb80dg36tcau"
+}
